@@ -1,0 +1,58 @@
+/* Styles Switcher */
+#style-switcher {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 3px;
+    position: fixed;
+    left: 0;
+    top: 180px;
+    width: 120px;
+    z-index: 9999;
+}
+#style-switcher div { padding: 12px }
+#style-switcher h2 {
+    color: #333;
+    font-size: 14px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 15px 0 5px 0;
+    text-transform: uppercase;
+    font-family: montserrat,sans-serif;
+}
+#style-switcher h2 a {
+    background: #00bcd4 none repeat scroll 0 0;
+    position: absolute;
+    display: block;
+    height: 40px;
+    width: 40px;
+    right: -40px;
+    top: 0;
+}
+#style-switcher h2 a i {
+    position: absolute;
+    font-size: 20px;
+    color: #fff;
+    left: 10px;
+    top: 10px;
+}
+.colors { padding-left: 7px }
+.colors {
+    margin: 0px 0px 10px 0px;
+    list-style: none;
+    overflow: hidden;
+}
+.colors li { float: left }
+.colors li a {
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+.style1 { background: #24c3f8 }
+.style2 { background: #2f7af8 }
+.style3 { background: #ff5722 }
+.style4 { background: #e91e63 }
+.colors li a.active { box-shadow: 0 0 0px 2px #fff }

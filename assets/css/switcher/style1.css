@@ -1,0 +1,81 @@
+#style-switcher h2 a { background: #24c3f8 none repeat scroll 0 0 }
+.section-title h2:before {
+    border-top: 4px solid #24c3f8;
+    border-left: 4px solid #24c3f8;
+}
+.section-title h2:after {
+    border-bottom: 4px solid #24c3f8;
+    border-right: 4px solid #24c3f8;
+}
+.button { background-color: #24c3f8 }
+.mainmenu ul.nav.navbar-nav li a:hover { color: #24c3f8 !important }
+.mainmenu ul.nav.navbar-nav li.active:before {
+    border-top: 2px solid #24c3f8;
+    border-left: 2px solid #24c3f8;
+}
+.mainmenu ul.nav.navbar-nav li.active:after {
+    border-bottom: 2px solid #24c3f8;
+    border-right: 2px solid #24c3f8;
+}
+.menu-bg .navbar-brand { color: #24c3f8 !important }
+.menu-bg .mainmenu ul.nav.navbar-nav li a:hover { color: #24c3f8 !important }
+.about-icon:before,
+.about-icon:after{ border-color: #24c3f8 }
+.about-icon i { background: #24c3f8 none repeat scroll 0 0 }
+.skills-progress .progress-bar { background: #24c3f8 }
+.edu-title p,
+.exp-title p { border-bottom: 3px solid #24c3f8 }
+.single-education:before,
+.single-experience:before,
+.single-service:before {
+    border-top: 1px solid #24c3f8;
+    border-left: 1px solid #24c3f8;
+}
+.single-education:after,
+.single-experience:after,
+.single-service:after {
+    border-bottom: 1px solid #24c3f8;
+    border-right: 1px solid #24c3f8;
+}
+.single-education i,
+.single-experience i,
+.single-service i { color: #24c3f8 }
+.single-education:hover,
+.single-experience:hover,
+.single-service:hover {
+    border: 1px solid rgba(36, 195, 248, 0.3);
+    background: #24c3f8;
+}
+.education:hover .edu-title i,
+.experience:hover .exp-title i { color: #24c3f8 }
+.panel-title a:after,
+.panel-title a.collapsed:after { color: #24c3f8 }
+.portfolio-filter ul li.active,
+.portfolio-filter ul li:hover {
+    border: 1px solid rgba(36, 195, 248, .3);
+    background: #24c3f8 none repeat scroll 0 0;
+}
+.image-overlay { background: rgba(36, 195, 248, 0.6) }
+.image-overlay i:hover { color: #24c3f8 }
+.hire-text h2,
+.counter h2,
+.testimonial-text h2 { border-bottom: 2px solid #24c3f8 }
+.counter i,
+.single-contact i { background: #24c3f8 }
+.video-area i:hover { background: #24c3f8 }
+.single_pricing.recommended,
+.single_pricing:hover { border: 1px solid rgba(36, 195, 248, 0.3) }
+.single_pricing.recommended .price,
+.single_pricing:hover .price { background: #24c3f8 }
+.about-icon:hover i,
+.counter:hover i,
+.single-contact:hover i {
+    background: rgba(36, 195, 248, 0.3);
+    color: #24c3f8;
+}
+.single-contact h2 { border-bottom: 2px solid #24c3f8 }
+.single-blog:hover { border: 1px solid rgba(36, 195, 248, 0.3) }
+.single-blog:hover .blog-content a.read-more { color: #24c3f8 }
+.form-control:hover,
+.form-control:focus { border-color: -moz-use-text-color -moz-use-text-color #24c3f8 }
+.copyright { background: #24c3f8 }

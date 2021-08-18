@@ -1,0 +1,102 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .mainmenu li a {
+        padding: 15px 10px;
+        margin: 0;
+    }
+	.section-padding { padding: 80px 0 }
+    .section-title { margin-bottom: 60px }
+    .section-title h2 { font-size: 36px }
+    .header-text h3 { font-size: 24px }
+    .header-text h2 { font-size: 58px }
+	.about-slide { margin-bottom: 40px }
+    .single-education p,
+    .single-experience p { font-size: 14px }
+    .single-education h2,
+    .single-experience h2,
+    .single-service h2 {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .single-blog { margin-bottom: 30px }
+	.search-box { margin-top: 50px }	
+	.about-single-project{ margin-top: 50px }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .section-padding { padding: 60px 0 }
+    .section-title { margin-bottom: 50px }
+    .section-title h2 {
+        font-size: 30px;
+        padding: 10px;
+    }
+    .section-title p { width: 100% }
+    .header-top-area { background-color: #fff }
+    .navbar-brand { color: #24c3f8 !important }
+    .mainmenu .navbar-nav li a { color: #333 !important }
+    .mainmenu ul.nav.navbar-nav li.active::before { width: 100% }
+    .mainmenu ul.nav.navbar-nav li.active::after { width: 100% }
+    .header-text {
+        padding-top: 20px;
+        text-align: center;
+    }	
+    .header-text h3 { font-size: 16px }
+    .header-text h2 { font-size: 22px }
+    .header-text p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+	.about-icon { margin-bottom: 20px }
+	.about-slide { margin-bottom: 40px }
+	.skills-progress { margin-bottom: 40px }
+    .hire-me,
+    .counter-feature,
+    .testimonial {
+        padding: 40px 0;
+        text-align: center;
+    }
+    .hire-text,
+    .testimonial-text { float: none }
+    .hire-text h2,
+    .counter h2,
+    .testimonial-text h2 { font-size: 22px }
+    .testimonial .item::before {
+        font-size: 60px;
+        left: 10px;
+    }
+    .counter { margin-bottom: 20px }
+    .counter p { font-size: 12px }
+    .single-experience { margin-bottom: 30px }
+    .single-education h2,
+    .single-experience h2,
+    .single-service h2 { font-size: 16px }
+    .edu-title i,
+    .exp-title i { margin-top: 15px }
+    .portfolio-filter ul li {
+        font-size: 10px;
+        padding: 8px;
+    }
+    .image-wrapper { margin-top: 15px }
+    .single-blog { margin-bottom: 15px }
+    .blog-content { padding: 20px }
+    .single-contact { margin-bottom: 30px }
+	.single_pricing { margin-bottom: 40px }
+	.search-box { margin-top: 50px }
+	.single-comment img {
+		float: none;
+		margin-bottom: 10px;
+	}
+	.about-single-project{ margin-top: 50px }
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+}
