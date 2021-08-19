@@ -1,5 +1,6 @@
 # Portfolio
-![image](https://user-images.githubusercontent.com/41896862/129999816-d6fecb8c-4c52-4048-8136-6e7ff05f460b.png)
+![image](https://user-images.githubusercontent.com/41896862/130001130-41c761fc-6af4-45d8-9d36-6049daa7631c.png)
+
 <hr>
 The web app displays a resume and an interactive contact form at the bottom
 <br>
