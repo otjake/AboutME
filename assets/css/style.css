@@ -188,8 +188,7 @@ fieldset {
 * -------------------------------------------------------------
 */
 .header-area { height: 100% }
-.header-img-one { background: url(../img/bg/bg1.jpg) }
-.header-img-two { background: url(../img/bg/bg2.jpg) }
+.header-img-one { background: url(../img/bg/tech_space.png) }
 .header-bg {
     background-size: cover;
     position: relative;

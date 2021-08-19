@@ -14,7 +14,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"> 
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->		
 		<!-- SITE TITLE -->
-	    <title>Persona - Onepage CV/Resume Template</title>
+	    <title>Jake's - Onepage CV/Resume Template</title>
 	    <!-- FAVICON -->
 	    <link rel="shortcut icon" type="image/png" href="assets/img/favicon.ico"/>	
 		<!-- All CSS -->
@@ -115,7 +115,7 @@
 						<!-- START SECTION TITLE DESIGN AREA -->
 						<div class="section-title text-center">
 							<h2>About Me</h2>
-							<p> I enjoy responsive web designs, developing dynamic systems, and collaborating with role-based teams to build awesome products that help the human race.</p>
+							<p> I enjoy making responsive web designs, developing dynamic systems, and collaborating with role-based teams to build awesome products that help the human race.</p>
 						</div>
 						<!-- / END SECTION TITLE DESIGN AREA -->
 					</div>
