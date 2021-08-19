@@ -1,7 +1,7 @@
 # Portfolio
-![image](https://user-images.githubusercontent.com/41896862/129999816-d6fecb8c-4c52-4048-8136-6e7ff05f460b.png)
+![upper](https://user-images.githubusercontent.com/41896862/130001470-5e6169bb-5c4c-47a1-94f7-6458fcbe56e8.PNG)
 <hr>
-The web app displays a resume and an interactive contact form at the bottom
+The web page displays a resume and an interactive contact form at the bottom
 <br>
 The print name item on the nav bar leads to compulsory task 2
 <hr>
