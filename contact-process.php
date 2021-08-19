@@ -1,10 +1,20 @@
 <?php
-$connection=new mysqli('localhost','root',"",'portfolio');
+
+
+$connection=new mysqli('remotemysql.com','Eyw0AtwUi2',"iqoInHXQrp","Eyw0AtwUi2");
 if($connection){
     echo "";
 }else{
     echo "error".mysqli_connect_error();
 }
+
+//localhost
+//$connection=new mysqli('localhost','root',"",'portfolio');
+//if($connection){
+//    echo "";
+//}else{
+//    echo "error".mysqli_connect_error();
+//}
 
 function test_input($data) {
     $data = trim($data);
