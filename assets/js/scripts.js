@@ -108,7 +108,7 @@
 						$(msg).text(dataResult.error);
 					}else{
 						$(msg).removeClass("alert alert-danger").addClass("alert alert-success");
-						$(msg).text("Hi" + dataResult.name + " You have a job for me? " +
+						$(msg).text("Hi " + dataResult.name + " You have a job for me? " +
 						"I will reach out via your email " + dataResult.email );
 					}
 
