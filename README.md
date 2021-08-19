@@ -1,6 +1,5 @@
 # Portfolio
-![image](https://user-images.githubusercontent.com/41896862/130001130-41c761fc-6af4-45d8-9d36-6049daa7631c.png)
-
+![upper](https://user-images.githubusercontent.com/41896862/130001470-5e6169bb-5c4c-47a1-94f7-6458fcbe56e8.PNG)
 <hr>
 The web page displays a resume and an interactive contact form at the bottom
 <br>
