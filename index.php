@@ -38,7 +38,6 @@
 		<link rel="stylesheet" href="assets/css/switcher/switcher.css"> 	
 		<link rel="stylesheet" href="assets/css/switcher/style1.css" id="colors">
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -73,6 +72,7 @@
 									<li><a class="smoth-scroll" href="#service">service</a></li>
 									<li><a class="smoth-scroll" href="#portfolio">portfolio</a></li>
 									<li><a class="smoth-scroll" href="#contact">contact</a></li>
+									<li><a class="smoth-scroll" href="my-name.php">Print Name</a></li>
 								</ul>
 							</nav>
 						</div> 
